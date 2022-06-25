@@ -1,6 +1,6 @@
 import "./navbar.scss"
 
-export default function navbar() {
+export default function Navbar() {
   return (
     <div className='navbar'>
       hello world
